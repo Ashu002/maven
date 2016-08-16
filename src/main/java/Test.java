@@ -3,6 +3,6 @@
  */
 public class Test {
     public static void main(String ar[]){
-        System.out.println("This is the Starting f Maven ok");
+        System.out.println("This is the Starting q24f Maven ok");
     }
 }
