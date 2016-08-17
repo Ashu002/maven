@@ -6,6 +6,5 @@
 
     <groupId>com.jetbrains</groupId>
     <artifactId>demo-maven</artifactId>
-    x<version>1.0-SNAPSHOT</version>
-    <build>gg</build>
-</project>
+    <version>1.0-SNAPSHOT</version>
+</project>  
